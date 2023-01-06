@@ -1,8 +1,8 @@
 # my-template
 
 ### Extension: live sass compiler (watch sass)
-<br />
-### https://www.youtube.com/watch?v=cpbN0YAW44g&list=LL&index=1&t=478s
+
+https://www.youtube.com/watch?v=cpbN0YAW44g&list=LL&index=1&t=478s
  
 ### setting.json (format):
 <code>
